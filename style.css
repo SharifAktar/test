@@ -1,0 +1,212 @@
+.part{
+	
+	height: 600px;
+	width: 1200px;
+	background-color: yellow;
+
+}
+
+
+.partA{
+
+	height: 200px;
+	width: 200px;
+	background-color:#ff4000;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+.partB{
+
+	height: 200px;
+	width: 200px;
+	background-color:#ff8000;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+.partC{
+
+	height: 200px;
+	width: 200px;
+	background-color:#bfff00;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+.partD{
+
+	height: 200px;
+	width: 200px;
+	background-color:#40ff00;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+.partE{
+
+	height: 200px;
+	width: 200px;
+	background-color:#00ffff;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+.partF{
+
+	height: 200px;
+	width: 200px;
+	background-color:#00bfff;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.partG{
+
+	height: 200px;
+	width: 300px;
+	background-color:#808080;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.partJ{
+
+	height: 200px;
+	width: 300px;
+	background-color:#1ac6ff;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+.partH{
+
+	height: 200px;
+	width: 300px;
+	background-color:#8000ff;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+.partI{
+
+	height: 200px;
+	width: 300px;
+	background-color:#ffe6e6;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+.partJ{
+
+	height: 200px;
+	width: 300px;
+	background-color: #ff4dd2;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+	.partK{
+
+	height: 200px;
+	width: 230px;
+	background-color: #0066cc;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.partL{
+
+	height: 200px;
+	width: 230px;
+	background-color: #00b36b;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+.partM{
+
+	height: 200px;
+	width: 250px;
+	background-color:#ffcc00;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+.partN{
+
+	height: 200px;
+	width: 230px;
+	background-color: #aaff00;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+.partO{
+
+	height: 200px;
+	width: 260px;
+	background-color:#ff8c1a;
+	float: left;
+	font-size: 120px;
+	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #333;
+   color: white;
+   text-align: center;
+   }
+
+  
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
